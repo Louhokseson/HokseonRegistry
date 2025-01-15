@@ -1,0 +1,6 @@
+name = "HokseonRegistry"
+uuid = "e9eff252-5b03-418e-abb0-9a7d794f85e9"
+repo = "https://github.com/Louhokseson/HokseonRegistry.git"
+description = "A custom registry for Hokseon's Julia packages"
+
+[packages]
