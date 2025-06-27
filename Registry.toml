@@ -4,4 +4,5 @@ repo = "https://github.com/Louhokseson/HokseonRegistry.git"
 description = "A custom registry for Hokseon's Julia packages"
 
 [packages]
+4e992a72-38bf-4f56-b165-33bbf4775b47 = { name = "HokseonAssistant", path = "H/HokseonAssistant" }
 dbc986b1-56c8-4426-90b1-59dbc674cedc = { name = "HokseonPlots", path = "H/HokseonPlots" }
